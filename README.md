@@ -2,7 +2,7 @@
 
 > O meu currículo em formato de documento web
 
-Este documento foi desenvolvido para participar do Challenge Code 2026.2
+Este documento foi desenvolvido para praticar meus estudos de HTML e CSS.
 
 ---
 
